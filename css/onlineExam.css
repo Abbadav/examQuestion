@@ -1,0 +1,42 @@
+.poor{
+    background-color: lightgoldenrodyellow;
+    color:red;
+    font-size: 16px;
+    border:1px solid red;
+    border-radius: 7px;
+}
+.good{
+    background-color: darkslategrey;
+    color: #fff;
+    font-size: 20px;
+    border: 3px solid grey;
+    border-radius: 7px;
+    text-align: center;
+    font-weight: bold;
+}
+.exam{
+    background-color: gray;
+    width: 980px;
+    border-radius: 3px solid grey;
+    text-align: left;
+    background-position: center;
+
+}
+.head{
+    text-align: center;
+    color: indigo;
+    font-weight: bold;
+}
+.formatTimeLeft{
+    position: relative;
+    height: 30px;
+    width: 200px;
+}
+.formatTimeLeft_circle{
+    fill: none;
+    stroke: none;
+}
+.formatTimeLeft_path-elapsed{
+    stroke-width: 7px;
+    stroke: grey;
+}
